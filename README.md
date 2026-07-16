@@ -23,3 +23,16 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyebili
 1. Bu depoyu bilgisayarınıza klonlayın: 
    ```bash
    git clone [https://github.com/erendemir224/OtobusBiletOtomasyonu.git](https://github.com/erendemir224/OtobusBiletOtomasyonu.git)
+
+2. Proje dosyaları içerisindeki SQL Script dosyasını (eğer ekliyse) SQL Server Management Studio (SSMS) üzerinden çalıştırarak veritabanı tablolarını oluşturun.
+3. Visual Studio üzerinde projeyi açın. Kod içerisindeki (veya App.config içerisindeki) SqlConnection dizesini kendi SQL Server adınıza (Data Source=SizinSunucuAdiniz) göre güncelleyin.
+4. F5 tuşu ile projeyi başlatın.
+📸 Ekran Görüntüleri
+<img width="1917" height="991" alt="Ekran görüntüsü 2026-07-16 151747" src="https://github.com/user-attachments/assets/e515cb69-c913-4ee6-a08c-f2904187f10f" />
+<img width="1917" height="985" alt="Ekran görüntüsü 2026-07-16 151815" src="https://github.com/user-attachments/assets/42c1afc0-ab1d-4b37-be99-0d5fc4dd7951" />
+<img width="1917" height="987" alt="Ekran görüntüsü 2026-07-16 151829" src="https://github.com/user-attachments/assets/c82ed2ae-43ee-478b-8c78-48d32b148c8a" />
+<img width="1917" height="985" alt="Ekran görüntüsü 2026-07-16 151839" src="https://github.com/user-attachments/assets/82bb404b-01b4-4a4c-8ddf-567c34907800" />
+
+
+
+
